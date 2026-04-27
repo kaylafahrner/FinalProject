@@ -6,7 +6,9 @@ layout: default
 # A Focus on Coding and Career
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="FinalProject/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="FinalProject/static/imgs/chart1.png" alt="CS Major Status of COMP110 Students. "  width="500"/>
+<img src="FinalProject/static/imgs/chart2.png" alt="Average Interest in Industry Connections by Major. "  width="500"/>
+<img src="FinalProject/static/imgs/chart3.png" alt="Does Higher Perceived Value Increase Interest in Connections. "  width="500"/>
 
 ## Analysis and Conclusion
 
